@@ -1,0 +1,22 @@
+body {
+    background-color: #bbbbbb;
+}
+body input {
+    font: 1em "Open Sans", sans-serif;
+    color: #363639;
+}
+a {
+    text-decoration: none;
+    border-bottom: 1px dashed #4141ff;
+}
+/* List */
+.list {
+    margin: 20px auto;
+    background-color: #fff;
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 0 rgba(0, 0 ,0 ,.1)
+    box-sizing: border-box;
+}
